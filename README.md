@@ -29,4 +29,3 @@ This is a full-stack AI chatbot that uses OpenAI’s ChatGPT API to provide inte
 1. Clone the repository:
    ```sh
    git clone https://github.com/panchajanyatkdr/AI-ChatBot
-   cd ai-chatbot/backend
